@@ -62,4 +62,4 @@ ax.set_ylabel("Điểm tổng kết")
 st.pyplot(fig)
 
 # 7. Thông tin cá nhân ở cuối trang
-st.caption("Họ và tên: [Tên của bạn] - MSSV: [MSSV của bạn]")
+st.caption("Họ và tên: [Nguyen Viet Xuan Phong] - MSSV: [040208010468]")
